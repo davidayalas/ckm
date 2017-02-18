@@ -4155,3 +4155,5 @@ input.captcha{
 form .error {
   color: #ff0000;
 }
+
+.logos img{width:15%; margin-left:.5em;}
